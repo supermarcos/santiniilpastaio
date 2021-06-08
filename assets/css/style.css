@@ -1201,7 +1201,8 @@ section {
 # Chefs
 --------------------------------------------------------------*/
 .chefs {
-  background: url("../img/chefs-bg.jpg") center center no-repeat;
+  /* background: url("../img/chefs-bg.jpg") center center no-repeat; */
+  background-color: transparent;
   background-size: cover;
   padding: 60px 0;
   position: relative;
